@@ -1,2 +1,2 @@
 # Medical_Image_Segmentation
-Learning Project
+Learning Project for UW-Madison Medical Image Segmentation
